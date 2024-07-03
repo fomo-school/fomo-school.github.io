@@ -19,7 +19,7 @@ title: FAME – 1st International School on Foundations and Advances of Model-Ba
 ## Important Dates
 
 |---|---|
-|**<span style="color:red">Application deadline</span>** | **<span style="color:red">June 26, 2024</span>** |
+|Application deadline | June 26, 2024 |
 |Notifications of acceptance or rejection | July 10, 2024 |
 |School | September 19 – 21, 2024 | 
 

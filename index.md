@@ -75,6 +75,13 @@ in the three days preceding the start of the [MODELS'24 conference](https://conf
 
 We thank our partners who kindly helped enable the FAME School.
 
+## <a href="https://www.obeosoft.com/" target="_blank">Obeo</a> 
+<div style="display: grid; place-items: center;">
+<a href="https://www.obeosoft.com/" target="_blank">
+<img src="/assets/sponsors/logo_obeo_HD.png" width="400" title="Netgrif – Logo" style=""/>
+</a>
+</div>
+
 ## <a href="https://netgrif.com/" target="_blank">NETGRIF, s.r.o.</a> 
 <div style="display: grid; place-items: center;">
 <a href="https://netgrif.com/" target="_blank">

@@ -96,6 +96,14 @@ We thank our partners who kindly helped enable the FAME School.
 </a>
 </div>
 
+## <a href="https://www.oberoesterreich.at/" target="_blank">Oberösterreich Tourismus – Land Oberösterreich</a> 
+<div style="display: grid; place-items: center;">
+<a href="https://www.oberoesterreich.at/" target="_blank">
+<img src="/assets/sponsors/Oberoesterreich.png" width="200" title="Oberösterreich Tourismus – Logo"/>
+</a>
+</div>
+
+
 ## <a href="https://jku.at" target="_blank">Johannes Kepler University</a> 
 <div style="display: grid; place-items: center;">
 <a href="https://jku.at" target="_blank">

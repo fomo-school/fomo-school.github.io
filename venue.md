@@ -6,9 +6,13 @@ permalink: /venue/
 
 ## Johannes Kepler University, Linz
 
-**Address:** Altenberger Straße 69, 4040 Linz, Austria
+**Address:**   
+Science Park 2 - Room S2 048 (Ground Floor)  
+Altenberger Straße 69, 4040 Linz, Austria
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d226.44635212306855!2d14.323274062858584!3d48.33563381839209!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477399774baa1349%3A0xc51a429d7bed3bfb!2sScience%20Park%202!5e0!3m2!1sen!2sat!4v1723629638741!5m2!1sen!2sat&z=2" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+### Campus Map
 <img src="../assets/SP2.png" />
 
 

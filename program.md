@@ -64,19 +64,19 @@ Note that the program is subject to minor changes in case of scheduling or speak
 <td colspan="3"><b>Coffee Break</b></td>
 </tr>
 <tr>
-<td rowspan="2">16:00 - 18:00</td>
+<td>16:00 - 17:00</td>
 <td><a href="#Developing-Next-Generation-Modeling-Tools">Developing Next Generation Modeling Tools with Open-Source Technologies</a><br /><span class="author">by Philip Langer and Dominik Bork</span></td>
 <td><a href="#Netgrif">Practical Experience with Petriflow: Enriched Process Models Serving as Implementation</a><br /><span class="author">by Gabriel Juhás, Netgrif</span></td>
 <td><a href="#Obeo">Industrial Tool Presentation</a><br /><span class="author">by Obeo</span></td>
 </tr>
 <tr>
-<td rowspan="2"><br/>Student Pitch Presentations & Pizza Night<br/><br/></td>
+<td rowspan="2">Evening</td>
+<td rowspan="2"><br/>Student Pitch Presentations & Dinner<br/><br/></td>
 <td><br/>(Student Presentations)<br/><br/></td>
 <td><br/>(Student Presentations)<br/><br/></td>
 
 </tr>
 <tr style="background-color: lightgray;">
-<td>Evening</td>
 <td><b>Social Event</b><br/>(Dinner)</td>
 <td><b>Social Event</b><br/>("Pub night")</td>
 </tr>

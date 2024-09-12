@@ -77,8 +77,8 @@ Note that the program is subject to minor changes in case of scheduling or speak
 
 </tr>
 <tr style="background-color: lightgray;">
-<td><b>Social Event</b><br/>Dinner at <a href="https://promenadenhof.at/">Promenadenhof</a><br /><a href="https://maps.app.goo.gl/Ad54WdZCnJgNbKs78">Google Maps</a></td>
-<td><b>Social Event</b><br/>Dinner at <a href="https://josef.eu/">Josef</a><br /><a href="https://maps.app.goo.gl/U9PSRb7mkZ67Ldsf6">Google Maps</a></td>
+<td><b style="color: lightyellow;">Social Event</b><br/>Dinner at <a href="https://promenadenhof.at/">Promenadenhof</a><br /><a href="https://maps.app.goo.gl/Ad54WdZCnJgNbKs78">(Google Maps)</a></td>
+<td><b style="color: lightyellow;">Social Event</b><br/>Dinner at <a href="https://josef.eu/">Josef</a><br /><a href="https://maps.app.goo.gl/U9PSRb7mkZ67Ldsf6">(Google Maps)</a></td>
 </tr>
 </table>
 

@@ -16,6 +16,15 @@ title: FAME – 1st International School on Foundations and Advances of Model-Ba
 
 ---
 
+<div style="padding: 20px;background-color:darkorange;color:white;margin-bottom: 15px;">
+<b>INFORMATION -- Flooding in Austria</b> <br/>
+This weekend, a major storm swept over Austria, causing regional flooding and leading to some parts of the public transport system to be currently disrupted.
+<br/>
+<br/>
+The latest information is that the primary connections between Linz and Vienna (incl. Vienna Airport) should be up and running by Tuesday. 
+Please stand by for more information and feel free to contact us at any time.
+</div>
+
 ## Important Dates
 
 |---|---|
